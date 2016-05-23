@@ -1,0 +1,45 @@
+[29-Jun-2015 13:35:52 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:35:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:35:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:36:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:36:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:36:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:37:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:37:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:37:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:40:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:40:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:40:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:40:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:40:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:40:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:48:06 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:48:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:48:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:52:05 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:52:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:52:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:52:12 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:52:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:52:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:54:50 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:54:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:54:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:55:09 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:55:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:55:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 13:55:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 13:55:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 13:55:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 14:01:42 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 14:01:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 14:01:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 14:03:28 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 14:03:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 14:03:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 14:05:53 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/generalinvasion/public_html/slinks/functions.php on line 4
+[29-Jun-2015 14:05:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/generalinvasion/public_html/slinks/functions.php on line 6
+[29-Jun-2015 14:05:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/generalinvasion/public_html/slinks/functions.php on line 7
+[29-Jun-2015 14:21:22 UTC] PHP Warning:  include(left_menu.php): failed to open stream: No such file or directory in /home/generalinvasion/public_html/slinks/companies/index.php on line 58
+[29-Jun-2015 14:21:22 UTC] PHP Warning:  include(left_menu.php): failed to open stream: No such file or directory in /home/generalinvasion/public_html/slinks/companies/index.php on line 58
+[29-Jun-2015 14:21:22 UTC] PHP Warning:  include(): Failed opening 'left_menu.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/generalinvasion/public_html/slinks/companies/index.php on line 58
